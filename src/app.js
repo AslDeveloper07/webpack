@@ -1,2 +1,4 @@
-console.log("Appjs");
-getData()
+import getData from './request'
+
+getData('Asilbek')
+console.log("App.js");

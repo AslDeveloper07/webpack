@@ -1,3 +1,4 @@
-const getData = () => {
-  console.log("getData");
+const getData = (name) => {
+  console.log(`hello ${name}`);
 };
+ export default getData
