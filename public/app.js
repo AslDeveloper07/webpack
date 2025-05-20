@@ -106,7 +106,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./css/style.scss */ \"./src/css/style.scss\");\n/* harmony import */ var _request__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./request */ \"./src/request.js\");\n//style\r\n\r\n\r\n\r\n\r\n(0,_request__WEBPACK_IMPORTED_MODULE_1__.getData)(\"Asilbek\");\r\nconsole.log(_request__WEBPACK_IMPORTED_MODULE_1__.numbers);\r\nconsole.log(\"App.js\");\r\n\n\n//# sourceURL=webpack://webpack/./src/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./css/style.scss */ \"./src/css/style.scss\");\n/* harmony import */ var _request__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./request */ \"./src/request.js\");\n//style\r\n\r\n\r\n\r\n\r\n(0,_request__WEBPACK_IMPORTED_MODULE_1__.getData)(\"Asilbek\");\r\nconsole.log(_request__WEBPACK_IMPORTED_MODULE_1__.numbers);\r\nconsole.log(\"App.js\");\r\nconsole.log(\"web developer\");\n\n//# sourceURL=webpack://webpack/./src/app.js?");
 
 /***/ }),
 

@@ -18,7 +18,7 @@ module.exports = {
   plugins: [
     new htmlWebpackPlugin({
       //title,
-      title: "webpack 5😀",
+      title: "webpack",
       //filename,
       filename: "index.html",
       //template
