@@ -1,0 +1,22 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack dars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AslDeveloper07/web-pack-dars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AslDeveloper07/web-pack-dars/issues"
+  },
+  "homepage": "https://github.com/AslDeveloper07/web-pack-dars#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  }
+}
