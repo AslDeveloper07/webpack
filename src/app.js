@@ -1,4 +1,8 @@
-import getData from './request'
+//style
+import './css/style.scss'
+import { getData, numbers } from "./request";
 
-getData('Asilbek')
+
+getData("Asilbek");
+console.log(numbers);
 console.log("App.js");
